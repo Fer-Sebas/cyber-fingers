@@ -18,7 +18,7 @@
                                 &kp DOT &kp Q &kp W &kp E &kp R &kp T               &kp Y &kp U  &kp I  &kp O   &kp P  &kp DOT
                                 &kp DOT &kp A &kp S &kp D &kp F &kp G               &kp H &kp J  &kp K  &kp L   &kp DOT  &kp DOT
                                 &kp DOT &kp LGUI &kp Z &kp X &kp C &kp V            &kp B &kp N  &kp M &kp TAB &kp KP_MINUS  &kp DOT
-                                         &kp LSHIFT &mo LCTRL &kp SPACE             &kp BSPC &mo RALT &kp RET
+                                         &kp LSHIFT &kp LCTRL &kp SPACE             &kp BSPC &mo RALT &kp RET
                   
                         >;
                 };
