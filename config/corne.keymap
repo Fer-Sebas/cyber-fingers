@@ -39,9 +39,9 @@
 
                         &trans          &kp AT  &kp PLUS  &kp STAR  &kp MINUS  &kp UNDER       &trans  &kp  LEFT  &kp  UP  &kp  RIGHT  &kp QUESTION                   &trans
 
-                        &trans          &kp LT &kp GT  &kp PIPE &kp APOSTROPHE &kp TILDE       &kp LBRC RBRC &kp LBKT RBKT &kp  DOWN  &kp COMMA &kp DOT             &trans
+                        &trans          &kp LT &kp GT  &kp PIPE &kp APOSTROPHE &kp TILDE       &kp LBRC &kp RBRC &kp  DOWN  &kp COMMA &kp DOT             &trans
 
-                                                         &kp  LALT   &kp LSHIFT  &kp TAB       &kp DEL &kp RCTRL &trans
+                                                        &kp  LALT   &kp LSHIFT  &kp TAB       &kp DEL &kp RCTRL &trans
                   
                         >;
                 };
