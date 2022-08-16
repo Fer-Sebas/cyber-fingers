@@ -59,9 +59,9 @@
 
                         &trans          &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp C_MUTE  &kp C_VOL_DN  &kp C_VOL_UP       &kp  C_PREVIOUS  &kp  C_PLAY_PAUSE  &kp  C_NEXT  &kp  PRINTSCREEN  &kp F11                   &trans
 
-                        &trans          &trans &trans  &trans &trans &trans       &trans &trans &trans  &trans &trans             &trans
+                        &trans          &trans &trans  &trans &trans &kp LA(TAB)       &trans &trans &trans  &trans &trans             &trans
 
-                                                        &trans   &kp LSHIFT  &kp TAB       &kp DEL &KP RCTRL &RALT
+                                                        &trans   &kp LSHIFT  &kp TAB       &kp DEL &KP RCTRL &kp RALT
                   
                         >;
                 };
