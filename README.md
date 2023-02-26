@@ -1,7 +1,7 @@
 # Cyber Fingers
 CRKBD Custom Firmware
 
-## Peding
+## Pending
 * Add pipe character
 * Add at character
 * Reduce tapping terms
